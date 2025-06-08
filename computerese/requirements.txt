@@ -1,0 +1,12 @@
+# Flask==2.0.3
+# Flask-Cors==3.0.10
+
+
+flask
+flask-debugtoolbar
+flask-cors
+flask-sqlalchemy
+flask-migrate
+flask-restful
+requests
+gunicorn
